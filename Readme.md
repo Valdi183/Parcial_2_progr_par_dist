@@ -1,0 +1,2 @@
+### SIMULADOR DE NOTICIAS
+Para ejecutar el programa, basta con asegurarse que el ordenador desde el que se ejecuta, está en la ruta correcta, (en el archivo central.py) y ejecutarlo con el interprete de Python
